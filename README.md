@@ -1,5 +1,9 @@
 # LixMonitor
 
+System Status Monitor for Linux
+
+[Backend ->](https://github.com/ZingLix/LixMonitor/)
+
 ## Project setup
 ```
 npm install
